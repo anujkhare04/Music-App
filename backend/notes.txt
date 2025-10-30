@@ -1,0 +1,8 @@
+
+ backend intro
+
+ https://chatgpt.com/share/687d9e6b-b7dc-8001-b789-7b994c0d3b8e 
+
+moongoose atlas
+mongo  compass -Db gui
+
